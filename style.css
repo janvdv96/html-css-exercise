@@ -140,6 +140,8 @@ h2, h3{
 }
 
 .links{
+	text-align: center;
+	font-size: 30px;
 	float: right;
 	width: 415px;
 	height:120px;
